@@ -1,0 +1,37 @@
+
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Arabica Coffee",
+      "description": "Smooth, rich coffee with a balanced flavour.",
+      "origin": "Ethiopia",
+      "price": 1200,
+      "location": "Location 1"
+    },
+    {
+      "id": "2",
+      "name": "Robusta Coffee",
+      "description": "Strong coffee with a bold and rich taste.",
+      "origin": "Uganda",
+      "price": 900,
+      "location": "Location 2"
+    },
+    {
+      "id": "3",
+      "name": "Kenyan AA Coffee",
+      "description": "Premium Kenyan coffee with fruity notes.",
+      "origin": "Kenya",
+      "price": 1500,
+      "location": "Location 3"
+    },
+    {
+      "id": "4",
+      "name": "Colombian Coffee",
+      "description": "Smooth coffee with a rich aroma.",
+      "origin": "Colombia",
+      "price": 1300,
+      "location": "Location 4"
+    }
+  ]
+}
